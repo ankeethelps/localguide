@@ -14,8 +14,8 @@ load_dotenv()
 # Keep these lines if you prefer to hardcode for testing, otherwise rely on .env
 #os.environ["SERPAPI_API_KEY"] = "YOUR_SERPAPI_KEY_HERE" # Replace with your actual key or load from .env
 #os.environ["GROQ_API_KEY"] = "YOUR_GROQ_API_KEY_HERE" # Replace with your actual key or load from .env
-os.environ["SY"] = ""
-os.environ["GROQ_API_KEY"] = ""
+os.environ["SY"] = "70a10bc50d4160d064884939f68e4faf25c9324df717349abf987527edf9f01f"
+os.environ["GROQ_API_KEY"] = "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"
 # Ensure env vars are loaded for your planner's functions
 SERPAPI_KEY = os.environ.get("SY")
 #if not SERPAPI_KEY:
