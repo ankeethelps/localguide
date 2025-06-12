@@ -33,7 +33,7 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-streramlit
+streamlit
 langhgraph
 langhgraph-groq
 langchain-graph
